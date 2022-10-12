@@ -7,6 +7,8 @@ This is the leaderboard application for the Hacktoberfest summit.
 The application is kept simple so you can improve it with your own pull requests to help you
 contribute for Hacktoberfest.
 
+More information about Hacktoberfest. Visit it [here](https://hacktoberfest.com/)
+
 The application is hosted on Heroku. Visit it [here](https://hacktoberfest-leaderboard.herokuapp.com/)
 
 Happy coding!
